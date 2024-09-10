@@ -1,0 +1,54 @@
+﻿@page "/"
+@using FileUpload.Services;
+@inject IFileUpload fileUpload;
+
+<div class="col-6">
+    <h1>File upload in Blazor</h1>
+
+    <div class="form-group">
+        <InputFile OnChange="OnInputFileChanged" multiple /> @*It should allow multiple selections that's why we use multiple*@
+        <button class="btn btn btn-success" type="button" @onclick="UploadFiles">Upload</button>
+        <br />
+    </div>
+
+    <br />
+
+    <label>
+        @labelText
+    </label>
+
+    <br />
+
+</div>
+
+@code {
+    IReadOnlyList<IBrowserFile> selectedFiles;
+
+    private string labelText = string.Empty;
+
+    private void OnInputFileChanged(InputFileChangeEventArgs e)
+    {
+        selectedFiles = new List<IBrowserFile>();
+        selectedFiles = e.GetMultipleFiles();
+    }
+
+    private async Task UploadFiles()
+    {
+        try
+        {
+            if (selectedFiles is not null && selectedFiles.Count > 0)
+            {
+                foreach(var file in selectedFiles)
+                {
+                    await fileUpload.UploadFile(file);
+                }
+
+                labelText = $"Upload of {selectedFiles.Count} files was Successful!";
+            }
+        }
+        catch (Exception ex)
+        {
+            labelText = $"Upload failed due to {ex.Message}";
+        }
+    }
+}
