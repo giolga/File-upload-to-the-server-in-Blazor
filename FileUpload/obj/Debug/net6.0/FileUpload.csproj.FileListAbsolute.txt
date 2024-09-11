@@ -29,3 +29,4 @@ C:\Users\GioLGA\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\refint\FileUpload
 C:\Users\GioLGA\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.pdb
 C:\Users\GioLGA\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.genruntimeconfig.cache
 C:\Users\GioLGA\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\ref\FileUpload.dll
+C:\Users\GioLGA\Desktop\FileUpload\FileUpload\obj\Debug\net6.0\FileUpload.sourcelink.json

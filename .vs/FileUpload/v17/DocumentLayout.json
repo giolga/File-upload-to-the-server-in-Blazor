@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|c:\\users\\giolga\\desktop\\fileupload\\fileupload\\services\\fileuploadc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\services\\fileuploadc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|c:\\users\\giolga\\desktop\\fileupload\\fileupload\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,38 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FileUploadC.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\Services\\FileUploadC.cs",
-              "RelativeDocumentMoniker": "FileUpload\\Services\\FileUploadC.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\Services\\FileUploadC.cs",
-              "RelativeToolTip": "FileUpload\\Services\\FileUploadC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:17:43.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "FileUpload\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\Pages\\Index.razor",
               "RelativeToolTip": "FileUpload\\Pages\\Index.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-09T12:49:18.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\Program.cs",
               "RelativeDocumentMoniker": "FileUpload\\Program.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\Program.cs",
               "RelativeToolTip": "FileUpload\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T12:49:07.419Z",
               "EditorCaption": ""

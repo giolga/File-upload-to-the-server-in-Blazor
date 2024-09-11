@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A2IW+Tp3768iXL1dEHeM+edodlsdaW8m4jFsi1GygZQ=",
+  "Hash": "SSz5a+Jhyo2QJSbl0OqaurhaEBiuOGrWKVwDSeYFOyI=",
   "Source": "FileUpload",
   "BasePath": "_content/FileUpload",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "FileUpload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\wwwroot\\",
+      "BasePath": "_content/FileUpload",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
@@ -205,25 +224,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "FileUpload",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\wwwroot\\",
-      "BasePath": "_content/FileUpload",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\FileUpload\\FileUpload\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
