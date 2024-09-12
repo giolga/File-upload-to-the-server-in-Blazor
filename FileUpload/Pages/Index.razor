@@ -10,6 +10,7 @@
         <button class="btn btn btn-success" type="button" @onclick="UploadFiles">Upload</button>
         <br />
         <br />
+
         @{
             var progressCss = "progress" + (displayProgress ? "" : "d-none");
             var progressWidthStyle = progressPercent + "%";
@@ -24,10 +25,12 @@
         </div>
     </div>
     <br />
+
     <label>
         @labelText
     </label>
     <br />
+
 </div>
 @if(previewImages.Count > 0)
 {
