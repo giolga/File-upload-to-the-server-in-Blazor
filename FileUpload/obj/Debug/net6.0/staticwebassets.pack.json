@@ -57,6 +57,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\images\\pdf_logo.png",
+      "PackagePath": "staticwebassets\\images\\pdf_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\README.md",
+      "PackagePath": "staticwebassets\\uploads\\README.md"
+    },
+    {
       "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\netInfo.txt",
       "PackagePath": "staticwebassets\\uploads\\netInfo.txt"
     },

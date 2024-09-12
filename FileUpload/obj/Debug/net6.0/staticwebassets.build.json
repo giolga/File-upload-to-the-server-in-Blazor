@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FVZPZp0Cc21FUgVQs4b+Y5/yujEoDrwnyjTeCsWbgJM=",
+  "Hash": "OpUgs66Y3/JQd+KJgV9TyNKOX2Zyt6T2u9TjuwRY3GY=",
   "Source": "FileUpload",
   "BasePath": "_content/FileUpload",
   "Mode": "Default",
@@ -302,6 +302,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\images\\pdf_logo.png",
+      "SourceId": "FileUpload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\",
+      "BasePath": "_content/FileUpload",
+      "RelativePath": "images/pdf_logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pdf_logo.png"
+    },
+    {
       "Identity": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\netInfo.txt",
       "SourceId": "FileUpload",
       "SourceType": "Discovered",
@@ -319,6 +338,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\netInfo.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\README.md",
+      "SourceId": "FileUpload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\",
+      "BasePath": "_content/FileUpload",
+      "RelativePath": "uploads/README.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\README.md"
     }
   ]
 }
