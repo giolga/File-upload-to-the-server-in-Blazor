@@ -9,6 +9,7 @@
         <InputFile OnChange="OnInputFileChanged" multiple /> @*It should allow multiple selections that's why we use multiple*@
         <button class="btn btn btn-success" type="button" @onclick="UploadFiles">Upload</button>
         <br />
+        <br />
         @{
             var progressCss = "progress" + (displayProgress ? "" : "d-none");
             var progressWidthStyle = progressPercent + "%";
@@ -34,8 +35,8 @@
 </div>
 
 @code {
-    private bool displayProgress = false;
-    private int progressPercent = 0;
+    private bool displayProgress;
+    private int progressPercent;
 
     IReadOnlyList<IBrowserFile> selectedFiles;
 
@@ -62,6 +63,7 @@
                     progressPercent = (int)((uploaded / selectedFiles.Count) * 100);
                 }
 
+                Thread.Sleep(1000);
                 displayProgress = false;
                 labelText = $"Upload of {selectedFiles.Count} files was Successful!";
             }
