@@ -10,6 +10,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddScoped<IFileUpload, FileUploadC>();
+builder.Services.AddScoped<IFileDownload, FileDownload>();
 
 var app = builder.Build();
 

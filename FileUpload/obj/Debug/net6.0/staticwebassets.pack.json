@@ -1,71 +1,71 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FileUpload.bundle.scp.css",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FileUpload.bundle.scp.css",
       "PackagePath": "staticwebassets\\FileUpload.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\images\\pdf_logo.png",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\images\\pdf_logo.png",
       "PackagePath": "staticwebassets\\images\\pdf_logo.png"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\README.md",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\README.md",
       "PackagePath": "staticwebassets\\uploads\\README.md"
     },
     {
-      "Id": "C:\\Users\\Mikey\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\netInfo.txt",
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\netInfo.txt",
       "PackagePath": "staticwebassets\\uploads\\netInfo.txt"
     },
     {
