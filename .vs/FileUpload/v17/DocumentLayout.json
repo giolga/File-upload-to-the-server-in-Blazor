@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|c:\\users\\giolga\\desktop\\file-upload-to-the-server-in-blazor\\fileupload\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|c:\\users\\giolga\\desktop\\file-upload-to-the-server-in-blazor\\fileupload\\wwwroot\\js\\customscripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\wwwroot\\js\\customscripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|c:\\users\\giolga\\desktop\\file-upload-to-the-server-in-blazor\\fileupload\\services\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\services\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|c:\\users\\giolga\\desktop\\file-upload-to-the-server-in-blazor\\fileupload\\pages\\downloads.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\pages\\downloads.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|c:\\users\\giolga\\desktop\\file-upload-to-the-server-in-blazor\\fileupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|c:\\users\\giolga\\desktop\\file-upload-to-the-server-in-blazor\\fileupload\\services\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\services\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A3822DA-BA53-41DE-A7EA-767C46E859E1}|FileUpload\\FileUpload.csproj|c:\\users\\giolga\\desktop\\file-upload-to-the-server-in-blazor\\fileupload\\services\\fileuploadc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +51,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FileUpload\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "FileUpload\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T07:49:13.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomScripts.js",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\js\\CustomScripts.js",
+              "RelativeDocumentMoniker": "FileUpload\\wwwroot\\js\\CustomScripts.js",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\js\\CustomScripts.js",
+              "RelativeToolTip": "FileUpload\\wwwroot\\js\\CustomScripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-13T07:44:07.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Downloads.razor",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\Pages\\Downloads.razor",
               "RelativeDocumentMoniker": "FileUpload\\Pages\\Downloads.razor",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\Pages\\Downloads.razor",
               "RelativeToolTip": "FileUpload\\Pages\\Downloads.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-13T07:30:07.894Z",
               "EditorCaption": ""
@@ -61,14 +95,14 @@
               "RelativeDocumentMoniker": "FileUpload\\Services\\FileDownload.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\Services\\FileDownload.cs",
               "RelativeToolTip": "FileUpload\\Services\\FileDownload.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T07:15:21.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FileUploadC.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\Services\\FileUploadC.cs",
               "RelativeDocumentMoniker": "FileUpload\\Services\\FileUploadC.cs",
@@ -76,12 +110,11 @@
               "RelativeToolTip": "FileUpload\\Services\\FileUploadC.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwCcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T17:11:37.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T17:11:37.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "FileUpload\\Pages\\Index.razor",
@@ -89,12 +122,11 @@
               "RelativeToolTip": "FileUpload\\Pages\\Index.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T12:49:18.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T12:49:18.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\Program.cs",
               "RelativeDocumentMoniker": "FileUpload\\Program.cs",
@@ -102,8 +134,7 @@
               "RelativeToolTip": "FileUpload\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T12:49:07.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T12:49:07.419Z"
             }
           ]
         },
