@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nKv8adhzUdL4meHc3ZhkZ+NNyyY7gDft6Rld6BjWwmo=",
+  "Hash": "aBriYa4b7G9YUa1PGzdlNiXpcX5Kze7NfrFFsLp/AsQ=",
   "Source": "FileUpload",
   "BasePath": "_content/FileUpload",
   "Mode": "Default",
@@ -321,6 +321,25 @@
       "OriginalItemSpec": "wwwroot\\images\\pdf_logo.png"
     },
     {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\js\\CustomScripts.js",
+      "SourceId": "FileUpload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\",
+      "BasePath": "_content/FileUpload",
+      "RelativePath": "js/CustomScripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\CustomScripts.js"
+    },
+    {
       "Identity": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\netInfo.txt",
       "SourceId": "FileUpload",
       "SourceType": "Discovered",
@@ -357,6 +376,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\Screenshot (851).png",
+      "SourceId": "FileUpload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\",
+      "BasePath": "_content/FileUpload",
+      "RelativePath": "uploads/Screenshot (851).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Screenshot (851).png"
     }
   ]
 }

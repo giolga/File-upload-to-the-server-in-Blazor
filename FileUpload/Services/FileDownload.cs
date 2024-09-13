@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.StaticFiles;
+using Microsoft.JSInterop;
 
 namespace FileUpload.Services
 {
@@ -11,16 +12,19 @@ namespace FileUpload.Services
     public class FileDownload : IFileDownload
     {
         private IWebHostEnvironment _webHostEnvironment;
+        private readonly IJSRuntime _js;
 
-        public FileDownload(IWebHostEnvironment webHostEnvironment)
+        public FileDownload(IWebHostEnvironment webHostEnvironment, IJSRuntime js)
         {
             _webHostEnvironment = webHostEnvironment;
+            _js = js;
         }
 
-        public Task DownloadFile(string url)
+        public async Task DownloadFile(string url)
         {
-            throw new NotImplementedException();
+            await _js.InvokeVoidAsync("downloadFile", url);
         }
+
 
         public async Task<List<string>> getUploadedFiles()
         {

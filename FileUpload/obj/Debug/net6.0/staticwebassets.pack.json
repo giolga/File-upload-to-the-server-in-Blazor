@@ -61,8 +61,16 @@
       "PackagePath": "staticwebassets\\images\\pdf_logo.png"
     },
     {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\js\\CustomScripts.js",
+      "PackagePath": "staticwebassets\\js\\CustomScripts.js"
+    },
+    {
       "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\README.md",
       "PackagePath": "staticwebassets\\uploads\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\Screenshot (851).png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot (851).png"
     },
     {
       "Id": "C:\\Users\\GioLGA\\Desktop\\File-upload-to-the-server-in-Blazor\\FileUpload\\wwwroot\\uploads\\netInfo.txt",
